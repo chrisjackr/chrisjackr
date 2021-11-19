@@ -6,6 +6,7 @@ Currently I am improving my knowledge of machine learning to help discover even 
 
 If you have an questions please feel free to drop me a message!
 
+LinkedIn: https://www.linkedin.com/in/chris-richardson-a42724195/
 <!---
 chrisjackr/chrisjackr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
