@@ -1,8 +1,8 @@
 Welcome to my GitHub profile!
 
-I'm Chris, an aspiring data scientist and sports enthusiast!
+I'm Chris, an aspiring data scientist, ML engineer and sports enthusiast!
 I enjoy combining my passions for healthcare, fitness and coding by creating insightful data visualisations and tools.
-Currently I am improving my knowledge of machine learning.
+Currently I am improving my knowledge of: Django & TensorFlow
 
 LinkedIn: https://www.linkedin.com/in/chris-richardson-a42724195/
 <!---
