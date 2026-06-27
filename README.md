@@ -3,7 +3,7 @@ chrisjackr/chrisjackr is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-👋 Software & ML Engineer specializing in cloud infrastructure, backend systems, and regulated medical software.
+👋 **ML & SoftwareEngineer** specializing in cloud infrastructure, backend systems, and regulated medical software.
 
 ☁️ Experienced in AWS architecture, Python backend development, and building scalable, production-grade systems.
 
